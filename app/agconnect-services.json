@@ -1,0 +1,35 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"appType":"1",
+		"cp_id":"5190090000025844885",
+		"product_id":"736430079244738706",
+		"client_id":"515522638156661952",
+		"client_secret":"FECA21EFFB3A32EDB9F2ED2B7544340A534249CEFAF0F330E1BD43131D4DAB12",
+		"project_id":"736430079244738706",
+		"app_id":"103476189",
+		"api_key":"CgB6e3x9QkCuZNXaRJuUQVG/Qe2KjInCh+sFCN8sbpdcAtd28bbC3/wCvAjEiVHOhxEqnMzf/Q/nRP6a2ZXVf3w2",
+		"package_name":"com.demosafety.huawei"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"search":{
+			"url":"https://search-dre.cloud.huawei.com"
+		},
+		"cloudstorage":{
+			"storage_url":"https://ops-dre.agcstorage.link"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}

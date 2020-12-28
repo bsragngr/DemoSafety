@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoSafety</string>
+    <string name="huawei_id_login">Sing In with Huawei ID</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_default_username">Welcome Default Username</string>
+</resources>

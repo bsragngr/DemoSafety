@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginFragment"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/huaweiIdLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/huawei_id_login"
+        android:drawableStart="@drawable/ic_hw_24x24_logo"
+        android:textSize="14sp"
+        android:fontFamily="sans-serif"
+        android:drawablePadding="4dp"
+        android:background="@drawable/rounded_button"
+        android:textColor="@color/white"
+        android:paddingEnd="@dimen/small_margin"
+        android:paddingStart="@dimen/small_margin"
+        android:textAllCaps="false"/>
+
+</LinearLayout>
